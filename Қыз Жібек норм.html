@@ -10,7 +10,7 @@
             background-color: #f5f5f5;
             margin: 0;
             padding: 20px;
-            background-image: url('1қ.png');
+            background-image: url('1Қ.png');
             background-size: cover;
             background-attachment: fixed;
             background-position: center;
